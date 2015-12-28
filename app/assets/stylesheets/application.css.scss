@@ -1,0 +1,16 @@
+/*
+ *= require_tree .
+ *= require_self
+ */
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+div {
+  h1.top_header { color: red; }
+}
+
+#ruby-text {
+  color: white;
+  background-color:blue;
+}
